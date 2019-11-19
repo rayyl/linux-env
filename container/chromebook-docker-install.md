@@ -19,3 +19,5 @@ Then install Docker:
 	
 	$ sudo apt-get update
 	$ sudo apt-get install docker-ce
+
+Courtesy of [Pixelbook Revisited: Running Docker Containers](https://hackernoon.com/pixelbook-revisited-running-docker-containers-aa7c742a7dec)
